@@ -1,4 +1,4 @@
-This folder contains the appendicies for the paper “Towards Immersive Process Simulation for Declarative Models.”
+This folder contains the appendicies for the paper “3DCR: A Tool for Immersive Process Mining.”
 The appendicies are organized as follows:
 
 The file Appendicies.pdf contain the following appendicies:
@@ -16,4 +16,6 @@ The file Appendicies.pdf contain the following appendicies:
 
 The file transcript_ideation.pdf contains the transcripts of the requirement elicitation interviews conducted during the research phase.
 
-The file transcript_validation.pdf contains the the transcripts of the validation interviews.
+The file transcript_validation.pdf contains the transcripts of the validation interviews.
+
+The file Maturity_tests.pdf contains the performance testing of the platform.
