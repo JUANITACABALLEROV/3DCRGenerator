@@ -1,5 +1,7 @@
 # 3DCRGenerator
 
+3DCR is a tool to enhance the comprehension and engagement of declarative process models via 3D gaming environments. Integrating with an industrial declarative process modeling language (DCR graphs), our tool enables a tailored and adaptable environment where novel representations of declarative process elements (e.g., events and causal relations) can be explored, modified, and enriched with domain-specific representations. 3DCR helps in the elicitation of process behaviors, the discovery of processes from user interactions, and the simulation/upskilling of stakeholders in new process variants. Initial usability experiments indicate positive results regarding usefulness, engagement, and learnability compared to 2D process model representations. In this paper, we describe the architecture, functionality, and maturity of 3DCR.
+
 This repository contains the accompanying materials for the paper "3DCR: A Tool for Immersive Process Mining".
 The game artifact "3DCR Beta Generator" described in the paper can be sampled by visiting the URL https://play.unity.com/en/games/036f5d66-b931-4892-91c8-320df2be6dcc/3dcr-generator-beta
 
@@ -29,3 +31,7 @@ Switch views by using the 1,2,3 keys.
 
 The folder" artifact" contains the artifact's source code.
 The folder" doc" contains the appendices for the paper" 3DCR: A Tool for Immersive Process Mining."
+
+## License:
+
+This package is published using MIT License.
