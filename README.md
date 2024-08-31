@@ -16,7 +16,7 @@ https://bit.ly/3DCRvideos
 5. For the tutorial's example, we take the valid traces of a couple of interactions and export them in CSV format to be analyzed with DISCO.
 
 
-##To play the 3DCR Beta, please note the following:
+## To play the 3DCR Beta, please note the following:
 
 If pressing the keys does not work, try clicking the mouse button within the game view.
 Choose full screen before selecting a domain.
