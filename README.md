@@ -25,7 +25,7 @@ Switch views by using the 1,2,3 keys.
 2. In View 2, the WASD keys move the character back and forth, and AD rotates the character on its axis. To execute an activity, place the mouse pointer over it and press the left mouse button.
 3. In View 3, the WASD keys move the camera back/forward/left/right. Place the mouse pointer over an activity to preview its execution.
 
-##Notes:
+## Notes:
 
 The folder" artifact" contains the artifact's source code.
 The folder" doc" contains the appendices for the paper" 3DCR: A Tool for Immersive Process Mining."
