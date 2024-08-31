@@ -34,4 +34,4 @@ The folder" doc" contains the appendices for the paper" 3DCR: A Tool for Immersi
 
 ## License:
 
-This package is published using MIT License.
+This tool is published using MIT License.
